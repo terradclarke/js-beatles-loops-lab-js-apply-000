@@ -22,7 +22,7 @@ function johnLennonFacts() {
     var j = 0;
     while (newFacts.length < factsList.length)
     factsList.push(facts[i] + "!!!");
-    i++
+    j++
   }
   return factsList 
 }
