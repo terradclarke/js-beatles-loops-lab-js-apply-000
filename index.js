@@ -18,13 +18,13 @@ function johnLennonFacts() {
     i++;
   }
   return newFacts; {
-    var facts = ["While on tour, he enjoyed playing Monopoly", "Harmonica was the first instrument Lennon learned to play"];
-    var i = 0;
-    while (newFacts.length < facts.length)
-    facts.push(facts[i] + "!!!");
+    var factsList = ["While on tour, he enjoyed playing Monopoly", "Harmonica was the first instrument Lennon learned to play"];
+    var j = 0;
+    while (newFacts.length < factsList.length)
+    factsList.push(facts[i] + "!!!");
     i++
   }
-  return facts 
+  return factsList 
 }
 
 
