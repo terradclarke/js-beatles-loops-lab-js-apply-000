@@ -17,14 +17,7 @@ function johnLennonFacts() {
     newFacts.push(facts[i] + "!!!");
     i++;
   }
-  return newFacts; {
-    var factsList = ["While on tour, he enjoyed playing Monopoly", "Harmonica was the first instrument Lennon learned to play"];
-    var j = 0;
-    while (newFacts.length < factsList.length)
-    factsList.push(facts[i] + "!!!");
-    j++
-  }
-  return factsList 
+  return newFacts; 
 }
 
 
